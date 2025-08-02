@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B1YmZ3M3N6cTRkZ2Z5azI4YzV3cGxkM3Z4c2JwcnJzemx4OGc1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/krkrHAEodHgzPzBv1s/giphy.gif" width="230" alt="Anime Hacker Animation"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/FruatreMaou?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/FruatreMaou?style=social" />
   <img src="https://img.shields.io/badge/Spotify-Now+Playing-green?logo=spotify" />
