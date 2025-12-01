@@ -72,7 +72,7 @@
 | ---------- | ------------------------------------------------------------- |
 | WhatsApp   | [+62 858-1759-7752](https://wa.me/6285817597752)              |
 | Instagram  | [@miesedap\_7](https://instagram.com/miesedap_7)              |
-| WA Channel | [Join](https://whatsapp.com/channel/0029VaNR2B6BadmioY6mar3N) |
+| WA Channel |  |
 
 ---
 
